@@ -249,11 +249,3 @@ const eswaran = {
 ---
 
 <div align="center">
-
-*"Build. Break. Learn. Repeat."* 🔁
-
-⭐️ From [Eswaran102005](https://github.com/Eswaran102005)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
