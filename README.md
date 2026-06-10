@@ -224,23 +224,7 @@ const eswaran = {
 
 <div align="center">
 
-*"Build. Break. Learn. Repeat."* 🔁
 
-⭐️ From [Eswaran102005](https://github.com/Eswaran102005)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eswaran%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Eswaran+L+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Java+%7C+JavaScript+%7C+React.js+Enthusiast+%E2%9A%A1;Turning+Ideas+Into+Real+Web+Apps+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Eswaran102005&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Eswaran102005)
-[![GitHub followers](https://img.shields.io/github/followers/Eswaran102005?label=Followers&style=flat-square&color=70a5fd&logo=github)](https://github.com/Eswaran102005)
-
-</div>
 
 ---
 
